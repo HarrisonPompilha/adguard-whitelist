@@ -1,4 +1,7 @@
 # Twitter
-@@||twimg.com^$important
-@@||twitter.com^$important
-@@||t.co^$important
+||twimg.com^
+||twitter.com^
+||t.co^
+||global.albtls.t.co^
+||t.co^
+||www.t.co^
