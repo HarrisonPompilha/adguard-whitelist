@@ -5,3 +5,4 @@
 ||global.albtls.t.co^
 ||t.co^
 ||www.t.co^
+||gaming.amazon.com.br^
